@@ -30,6 +30,6 @@
     "civicrm/civicrm-core" : ">=5.4.0"
   },
   "extra": {
-    "installer-name": "drupal-module"
+    "installer-name": "civicrm"
   }
 }
